@@ -1,22 +1,26 @@
 ---
-title: "Python"
+title: "🐍 Python"
 slug: "python"
 excerpt: "Tutorial for integrating the Python SDK"
 hidden: false
 createdAt: "2023-05-10T18:37:50.441Z"
 updatedAt: "2023-05-10T23:23:56.128Z"
 ---
+
 Check out our [example app](https://github.com/trywale/analytics-sdk/tree/master/examples/summarizer-backend) on GitHub to get started!
 
 ### Step 1: Install the Wale SDK Python package
 
-`pip install wale-sdk`
+```
+pip install wale-sdk
+```
 
 ### Step 2: Set up the Wale logger
 
 Set up the Wale logger by initializing the Wale class with your Wale API Key. Get your Wale API key by visiting the [settings page](https://ide.trywale.com/settings)
 
 Create a new script `main.py`:
+
 ```python
 import openai
 from wale import Wale
@@ -79,6 +83,6 @@ Once you have started logging data with the Wale SDK, you can view your logs in 
 
 ![](../../assets/quick-start/analytics/python-events.png)
 
-The dashboard provides a detailed view of your logged data, allowing you to analyze and understand your LLM (language model) calls. 
+The dashboard provides a detailed view of your logged data, allowing you to analyze and understand your LLM (language model) calls.
 
 You can log in to the Wale dashboard using your Wale account credentials. Once you're logged in, you can view your logs, filter them, and export them for further analysis.

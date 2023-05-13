@@ -1,7 +1,13 @@
 ---
 title: "🔬 Prompt Analytics"
 slug: "prompt-analytics"
+sidebar_position: 3
 ---
+
+# 🔬 Prompt Analytics
+
+---
+
 # 📊 Track Performance and Optimize
 
 We understand the significance of utilizing data to enhance the performance of your prompts. This is why we offer a comprehensive set of analyses on your metrics that enable you to gain insights into how your prompts are performing.
