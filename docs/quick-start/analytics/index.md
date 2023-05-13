@@ -10,7 +10,7 @@ import DocCardList from '@theme/DocCardList';
 
 You can integrate your use of OpenAI and gain real-time visibility into your usage, error rates, rate limits, and other important metrics. 
 
-Simply sign up or log in to claim your `WALE_API_KEY` in the [settings](https//ide.trywale.com/settings) page.
+Simply sign up or log in to claim your `WALE_API_KEY` in the [settings](https://ide.trywale.com/settings) page.
 
 ### Pick a SDK to get started:
 <DocCardList />
