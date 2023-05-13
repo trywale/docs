@@ -25,8 +25,8 @@ Here are the first few lines of _Alice in Wonderland_ and the target languages w
 
 ## Dataset
 
-| text                                                                                                                 | target_language |
-| :------------------------------------------------------------------------------------------------------------------- | :-------------- |
+| text | target_language |
+| :---------- | :-------------- |
 | Alice was beginning to get very tired of sitting by her sister on the bank                                           | Spanish         |
 | and of having nothing to do: once or twice she had peeped into the book her sister was reading                       | Korean          |
 | but it had no pictures or conversations in it, 'and what is the use of a book,' thought Alice                        | French          |
@@ -44,10 +44,6 @@ Let's see what this looks like in Wale!
 **Wale's Dataset Page**
 
 ![](../assets/tutorials/translation-dataset.png)
-
-Watch Zach walk through this example 👀
-
-
 
 
 🤗 Happy Prompting!

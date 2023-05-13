@@ -1,9 +1,7 @@
 ---
 title: "Get Started"
-slug: "about"
 sidebar_position: 1
 ---
-import DocCardList from '@theme/DocCardList';
 
 # 🐳 Wale
 
@@ -26,5 +24,3 @@ Join our [📣 Discord](https://discord.gg/nRUTD8yQeP) and follow our [🐦 Twit
 
 Thank you for trying out Wale! :whale:
 
-## Docs
-<DocCardList />

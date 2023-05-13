@@ -44,5 +44,5 @@ function HomepageHeader() {
 
 // Redirect to intro!
 export default function Home() {
-  return <Redirect to='/docs/intro' />;
+  return <Redirect to='/docs/about/' />;
 }
